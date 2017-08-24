@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
     private void johnd () {
         int j = 11 ;
     }
+
+    private void ftcUpdate () {
+        int f = 12;
+    }
 }
