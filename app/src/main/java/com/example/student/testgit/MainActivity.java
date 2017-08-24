@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void johnd () {
-        int j = 1;
+        int j = 11;
     }
 }
