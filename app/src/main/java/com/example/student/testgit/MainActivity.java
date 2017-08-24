@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
     private void ftcaccount () {
         int i = 1;
     }
+
+    private void johnd () {
+        int j = 11 ;
+    }
 }
