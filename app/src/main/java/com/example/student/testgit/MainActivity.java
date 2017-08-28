@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void johnd () {
-        int j = 11 ;
+        int j = 42 ;
     }
 
     private void ftcUpdate () {
